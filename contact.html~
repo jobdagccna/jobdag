@@ -102,8 +102,8 @@
 
     </header>
     <section>
-    	<div>
-    		 <table style="width:100%">
+    	<div align="center">
+    		 <table style="width:100%" align="center">
 				  <tr>
 				    <th>Naam</th>
 				  </tr>
