@@ -638,9 +638,28 @@ fieldset[disabled] .btn {
 
 .names {
   text-align: center;
+  height: 500px;
 }
+
 .names ul {
-  display: inline-block;
+  list-style: none;
+  text-align: center;
+  margin: 0 auto;
+  width: 40%;
+  }
+
+.names ul li {
+  float: left;
+  padding: 5px 5px;
+  font-size: 50px;
+}
+
+.names ul li a {
+  color: #2d2d2d;
+}
+
+.names ul li a:hover {
+  color: #787878;
 }
 
 /* ==========================================================================
