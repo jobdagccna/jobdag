@@ -102,39 +102,19 @@
 
     </header>
     <section>
-    	<div align="center">
-    		 <table style="width:100%" align="center">
-				  <tr>
-				    <th>Naam</th>
-				  </tr>
-				  <tr>
-					 <td><a href="https://www.linkedin.com/in/bram-verbiest-a01908155/">Bram Verbiest</td>
-				  </tr>
-				  <tr>
-				    <td><a href="https://www.linkedin.com/in/david-gaens-82aa16157/">David Gaens</td>
-				  </tr>
-				  <tr>
-				    <td><a href="https://www.linkedin.com/in/dries-stelten/">Dries Stelten</td>
-				  </tr>
-				  <tr>
-				    <td><a href="https://www.linkedin.com/in/edwin-gijsbertse/">Edwin Gijsbertse</td>
-				  </tr>
-				  <tr>
-				    <td><a href="https://www.linkedin.com/in/giovanni-mazzei/">Giovanni Mazzei</td>
-				  </tr>
-				  <tr>
-				    <td><a href="https://www.linkedin.com/in/obe-martens-097a75157/">Obe Martens</td>
-				  </tr>
-				  <tr>
-				    <td><a href="#">Piet Caubergh</td>
-				  </tr>
-				  <tr>
-				    <td><a href="https://www.linkedin.com/in/roy-ooms-948a76157/">Roy Ooms</td>
-				  </tr>
-				  <tr>
-				    <td><a href="https://www.linkedin.com/in/sebastian-lawicki-178241140/">Sebastian Lawicki</td>
-				  </tr>
-			</table> 
+    	<div class="names">
+			<ul>
+			 <li>Naam</li>
+			 <li><a href="https://www.linkedin.com/in/bram-verbiest-a01908155/">Bram Verbiest</a></li>
+		    <li><a href="https://www.linkedin.com/in/david-gaens-82aa16157/">David Gaens</a></li>
+		    <li><a href="https://www.linkedin.com/in/dries-stelten/">Dries Stelten</a></li>
+		    <li><a href="https://www.linkedin.com/in/edwin-gijsbertse/">Edwin Gijsbertse</a></li>
+		    <li><a href="https://www.linkedin.com/in/giovanni-mazzei/">Giovanni Mazzei</a></li>
+		    <li><a href="https://www.linkedin.com/in/obe-martens-097a75157/">Obe Martens</a></li>
+		    <li><a href="#">Piet Caubergh</a></li>
+		    <li><a href="https://www.linkedin.com/in/roy-ooms-948a76157/">Roy Ooms</a></li>
+				<li><a href="https://www.linkedin.com/in/sebastian-lawicki-178241140/">Sebastian Lawicki</a></li>
+			</ul>
 		</div>	
     </section>
 	<footer>
