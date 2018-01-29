@@ -646,6 +646,12 @@ Custom Componet
   width: 40%;
 }
 
+#map {
+  margin: 0 auto;
+  width: 800px;
+  height: auto;
+}
+
 #map iframe {
   display: block;
   margin: 0 auto;
