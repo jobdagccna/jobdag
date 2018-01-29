@@ -660,6 +660,18 @@ Custom Componet
   margin: 0 auto;
 }
 
+#schedule {
+  font-size: 20px;
+  color: #2d2d2d;
+  display: block;
+  margin: 0 auto;
+  width: 800px;
+}
+
+#schedule ul li {
+  list-style: circle;
+}
+
 #inleiding a:hover {
   color: #2d2d2d;
 }
