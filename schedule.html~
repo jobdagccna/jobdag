@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>CCNA Jobdag Contact</title>
+  <title>CCNA Jobdag Planning</title>
 
   <!-- Bootstrap -->
-  <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" >
   <!-- Main Style -->
   <link rel="stylesheet" type="text/css" href="assets/css/main.css">
   <!-- Responsive Style -->
@@ -21,7 +20,7 @@
   <!-- Slicknav -->
   <link rel="stylesheet" type="text/css" href="assets/css/slicknav.css">
   <!-- Nivo Lightbox -->
-  <link rel="stylesheet" type="text/css" href="assets/css/nivo-lightbox.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/nivo-lightbox.css" >
   <!-- Animate -->
   <link rel="stylesheet" type="text/css" href="assets/css/animate.css">
   <!-- Owl carousel -->
@@ -36,7 +35,6 @@
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
 </head>
-
 <body>
 
   <!-- Header Area wrapper Starts -->
@@ -46,7 +44,7 @@
       <div class="container">
         <div class="col-md-6 col-sm-6">
           <div class="info-bar-address">
-            <i class="icon-location-pin"></i><a href="location.html">Vissersstraat 3, 3500 Hasselt</a>
+            <i class="icon-location-pin"></i> Vissersstraat 3, 3500 Hasselt
           </div>
         </div>
         <div class="col-md-6 col-sm-6">
@@ -84,10 +82,8 @@
                 <li><a href="contact.html">Wie zijn wij</a></li>
                 <li><a href="location.html">Locatie</a></li>
               </ul>
-            </div>
-            <!-- /navbar-collapse -->
-          </div>
-          <!-- /container -->
+            </div><!-- /navbar-collapse -->
+          </div><!-- /container -->
 
           <!-- Mobile Menu Start -->
           <ul class="wpb-mobile-menu">
@@ -103,68 +99,76 @@
       <!-- Nav Menu Section End -->
 
     </nav>
-    </div>
-    <!-- Nav Menu Section End -->
+  </div>
+  <!-- Nav Menu Section End -->
 
-  </header>
-  <section class="content">
-    <div class="names">
-      <ul>
-        <li><a target="_blank" href="https://www.linkedin.com/in/bram-verbiest-a01908155/">Bram Verbiest</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/david-gaens-82aa16157/">David Gaens</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/dries-stelten/">Dries Stelten</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/edwin-gijsbertse/">Edwin Gijsbertse</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/giovanni-mazzei/">Giovanni Mazzei</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/obe-martens-097a75157/">Obe Martens</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/piet-caubergh/">Piet Caubergh</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/roy-ooms-948a76157/">Roy Ooms</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/sebastian-lawicki-178241140/">Sebastian Lawicki</a></li>
-      </ul>
-    </div>
-  </section>
-  <footer>
-    <!-- Copyright Start -->
-    <section id="copyright">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <p class="copyright-text text-center">
-              Designed and Developed by
-              <a target="_blank" href="https://www.linkedin.com/in/dries-stelten/">Dries</a> en <a target="_blank" href="https://www.linkedin.com/in/giovanni-mazzei/">Giovanni</a>
-            </p>
-          </div>
+</header>
+
+<section class="content">
+  <ul>
+    <li>
+      Welkomstwoord en praktische uitleg.
+    </li>
+    <li>
+      Eerste 5 jobdates van 10 minuten
+    </li>
+    <li>
+      15m koffie met koek
+    </li>
+    <li>
+      Volgende 5 jobdates van 10 minuten
+    </li>
+    <li>
+      Afsluitend dankwoord
+    </li>
+    <li>
+      30m napraten
+    </li>
+  </ul>
+</section>
+
+<footer>
+  <!-- Copyright Start -->
+  <section id="copyright">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <p class="copyright-text text-center">
+            Designed and Developed by
+            <a target="_blank" href="https://www.linkedin.com/in/dries-stelten/">Dries</a> en <a target="_blank" href="https://www.linkedin.com/in/giovanni-mazzei/">Giovanni</a>
+          </p>
         </div>
       </div>
-    </section>
-    <!-- Copyright End -->
-  </footer>
+    </div>
+  </section>
+  <!-- Copyright End -->
+</footer>
 
-  <!-- jQuery Load -->
-  <script src="assets/js/jquery.min.js"></script>
-  <!-- Bootstrap JS -->
-  <script src="assets/js/bootstrap.min.js"></script>
-  <!-- Countdown Js -->
-  <script src="assets/js/jquery.countdown.min.js"></script>
-  <!-- Smooth scroll JS -->
-  <script src="assets/js/smooth-scroll.js"></script>
-  <!-- Wow Scroll -->
-  <script src="assets/js/wow.js"></script>
-  <!-- Owl carousel -->
-  <script src="assets/js/owl.carousel.min.js"></script>
-  <!-- Slicknav js -->
-  <script src="assets/js/jquery.slicknav.js"></script>
-  <!--  Nivo lightbox Js -->
-  <script src="assets/js/nivo-lightbox.js"></script>
-  <!-- Contact Form Scripts -->
-  <script src="assets/js/form-validator.min.js"></script>
-  <script src="assets/js/contact-form-script.js"></script>
+<!-- jQuery Load -->
+<script src="assets/js/jquery.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="assets/js/bootstrap.min.js"></script>
+<!-- Countdown Js -->
+<script src="assets/js/jquery.countdown.min.js"></script>
+<!-- Smooth scroll JS -->
+<script src="assets/js/smooth-scroll.js"></script>
+<!-- Wow Scroll -->
+<script src="assets/js/wow.js"></script>
+<!-- Owl carousel -->
+<script src="assets/js/owl.carousel.min.js"></script>
+<!-- Slicknav js -->
+<script src="assets/js/jquery.slicknav.js"></script>
+<!--  Nivo lightbox Js -->
+<script src="assets/js/nivo-lightbox.js"></script>
+<!-- Contact Form Scripts -->
+<script src="assets/js/form-validator.min.js"></script>
+<script src="assets/js/contact-form-script.js"></script>
 
-  <!-- All Js plugin -->
-  <script src="assets/js/main.js"></script>
-  <!-- Map JS -->
-  <script type="text/javascript" src="assets/js/jquery.mapit.min.js"></script>
-  <script src="assets/js/initializers.js"></script>
+<!-- All Js plugin -->
+<script src="assets/js/main.js"></script>
+<!-- Map JS -->
+<script type="text/javascript" src="assets/js/jquery.mapit.min.js"></script>
+<script src="assets/js/initializers.js"></script>
 
 </body>
-
 </html>

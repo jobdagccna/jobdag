@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>CCNA Jobdag Contact</title>
+  <title>CCNA Jobdag Inschrijving</title>
 
   <!-- Bootstrap -->
   <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
       <div class="container">
         <div class="col-md-6 col-sm-6">
           <div class="info-bar-address">
-            <i class="icon-location-pin"></i><a href="location.html">Vissersstraat 3, 3500 Hasselt</a>
+            <i class="icon-location-pin"></i> Vissersstraat 3, 3500 Hasselt
           </div>
         </div>
         <div class="col-md-6 col-sm-6">
@@ -107,21 +107,13 @@
     <!-- Nav Menu Section End -->
 
   </header>
+
   <section class="content">
-    <div class="names">
-      <ul>
-        <li><a target="_blank" href="https://www.linkedin.com/in/bram-verbiest-a01908155/">Bram Verbiest</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/david-gaens-82aa16157/">David Gaens</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/dries-stelten/">Dries Stelten</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/edwin-gijsbertse/">Edwin Gijsbertse</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/giovanni-mazzei/">Giovanni Mazzei</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/obe-martens-097a75157/">Obe Martens</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/piet-caubergh/">Piet Caubergh</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/roy-ooms-948a76157/">Roy Ooms</a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/sebastian-lawicki-178241140/">Sebastian Lawicki</a></li>
-      </ul>
+    <div id="form">
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdmW3lh3wbrnqf97gwNYZ8VdPeqVKBXpWy7NFsMsAyCogcuzA/viewform?embedded=true">Bezig met laden...</iframe>
     </div>
   </section>
+
   <footer>
     <!-- Copyright Start -->
     <section id="copyright">
