@@ -661,10 +661,10 @@ Custom Componet
 }
 
 #schedule {
+  margin: 20px auto;
   font-size: 20px;
   color: #2d2d2d;
   display: block;
-  margin: 0 auto;
   width: 800px;
 }
 
