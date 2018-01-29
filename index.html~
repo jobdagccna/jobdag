@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>CCNA Jobdag Inschrijving</title>
+  <title>CCNA Jobdag Home</title>
 
   <!-- Bootstrap -->
   <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
       <div class="container">
         <div class="col-md-6 col-sm-6">
           <div class="info-bar-address">
-            <i class="icon-location-pin"></i><a href="location.html">Vissersstraat 3, 3500 Hasselt</a>
+            <i class="icon-location-pin"></i> Vissersstraat 3, 3500 Hasselt
           </div>
         </div>
         <div class="col-md-6 col-sm-6">
@@ -107,11 +107,14 @@
     <!-- Nav Menu Section End -->
 
   </header>
-
   <section class="content">
-    <div id="form">
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdmW3lh3wbrnqf97gwNYZ8VdPeqVKBXpWy7NFsMsAyCogcuzA/viewform?embedded=true">Bezig met laden...</iframe>
-    </div>
+    <h1 align="center">Welkom!</h1>
+    <p id="inleiding" align="center">De cursisten van de CEVORA opleiding CCNA Netwerktechnicus organiseren op donderdag 15 maart een job-dag.
+      <br>We willen in een gemoedelijke sfeer de kans creëren om met elkaar kennis te maken en u tegelijk overtuigen van onze meerwaarde voor uw bedrijf.
+      <br><br>We voorzien een goedgevuld programma met 1 op 1 gesprekken en een hapje en een drankje tussendoor.
+      <br><br>Indien u net als ons nieuwsgierig bent, kan u zich inschrijven onder het menu item <a href="inschrijven.html">Inschrijven</a>. Onder <a href="schedule.html">Planning</a> vindt u de dag indeling, de Linkedin profielen van de cursisten vindt
+      u onder <a href="contact.html">Wie zijn wij</a>.</p>
+    <img id="flyer" src="assets/img/flyer.png" align="center" id="flyer" alt="" align="middle" width="600" height="800" />
   </section>
 
   <footer>
